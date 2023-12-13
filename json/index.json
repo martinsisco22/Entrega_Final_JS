@@ -1,0 +1,98 @@
+[
+    {
+       "id":1,
+       "nombre":"Original",
+       "categoria":"Yerbas",
+       "stock":20,
+       "precio":1500,
+       "imagen":"./images/original.png"
+    },
+    {
+       "id":2,
+       "nombre":"Menta y Jengibre",
+       "categoria":"Yerbas",
+       "stock":25,
+       "precio":1200,
+       "imagen":"./images/menta_jengibre.png"
+    },
+    {
+       "id":3,
+       "nombre":"Menta y Lavanda",
+       "categoria":"Yerbas",
+       "stock":25,
+       "precio":1300,
+       "imagen":"./images/menta_lavanda.png"
+    },
+    {
+       "id":4,
+       "nombre":"Jengibre y Naranja",
+       "categoria":"Yerbas",
+       "stock":20,
+       "precio":1400,
+       "imagen":"./images/jengibre_naranja.png"
+    },
+    {
+       "id":5,
+       "nombre":"Manzanilla",
+       "categoria":"Yerbas",
+       "stock":30,
+       "precio":1100,
+       "imagen":"./images/manzanilla_naranja.png"
+    },
+    {
+       "id":6,
+       "nombre":"Mate de acero",
+       "categoria":"Mates",
+       "stock":15,
+       "precio":7500,
+       "imagen":"./images/mate_acero.png"
+    },
+    {
+       "id":7,
+       "nombre":"Mate de madera",
+       "categoria":"Mates",
+       "stock":10,
+       "precio":6500,
+       "imagen":"./images/mate_madera.jpg"
+    },
+    {
+       "id":8,
+       "nombre":"Bombilla de acero",
+       "categoria":"Bombillas",
+       "stock":25,
+       "precio":1800,
+       "imagen":"./images/bombilla_acero.jpg"
+    },
+    {
+       "id":9,
+       "nombre":"Bombilla de madera",
+       "categoria":"Bombillas",
+       "stock":10,
+       "precio":1100,
+       "imagen":"./images/bombilla_madera.jpg"
+    },
+    {
+       "id":11,
+       "nombre":"Matera de madera",
+       "categoria":"Materas",
+       "stock":20,
+       "precio":5500,
+       "imagen":"./images/matera_madera.jpg"
+    },
+    {
+       "id":12,
+       "nombre":"Matera de cuero",
+       "categoria":"Materas",
+       "stock":0,
+       "precio":6500,
+       "imagen":"./images/bombilla_madera.jpg"
+    },
+    {
+       "id":13,
+       "nombre":"Mate de bronce",
+       "categoria":"Mates",
+       "stock":30,
+       "precio":4500,
+       "imagen":"./images/bombilla_madera.jpg"
+    }
+ ]
